@@ -8,7 +8,7 @@ body {
 }
 
 a {
-  color: #ffb727;
+  color: #0a9626;
 }
 
 a:hover {
@@ -17,7 +17,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family:'Courier New', Courier, monospace;
 }
 
 /*--------------------------------------------------------------
@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-  background: #ffb727;
+  background: #0a9626;
   color: #fff;
   transition: all 0.4s;
 }
@@ -139,7 +139,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #ffb727;
+  color: #0a9626;
 }
 
 .nav-menu .drop-down > a:after {
@@ -234,7 +234,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #ffb727;
+  color: #0a9626;
   text-decoration: none;
 }
 
@@ -326,7 +326,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero h1 {
   margin: 0 0 10px 0;
   font-size: 64px;
-  font-family: "Satisfy", serif;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: #fff;
 }
 
@@ -350,7 +350,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-scroll:hover {
-  color: #ffb727;
+  color: #0a9626;
 }
 
 @media (min-width: 1024px) {
@@ -531,7 +531,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #ffb727;
+  color: #0a9626;
 }
 
 .about .content .count-box {
@@ -541,7 +541,7 @@ section {
 .about .content .count-box i {
   display: block;
   font-size: 36px;
-  color: #ffb727;
+  color: #0a9626;
   float: left;
 }
 
@@ -615,7 +615,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #ffb727;
+  background-color: #0a9626;
 }
 
 
@@ -708,7 +708,7 @@ section {
 }
 
 .testimonials .owl-dot.active {
-  background-color: #ffb727 !important;
+  background-color: #0a9626 !important;
 }
 
 @media (min-width: 1024px) {
@@ -745,6 +745,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
+  background-color: #f3a200;
   color: #fff;
   font-size: 14px;
   text-align: center;
@@ -771,7 +772,7 @@ section {
   font-weight: 700;
   color: #fff;
   position: relative;
-  font-family: "Satisfy", serif;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   padding: 0;
   margin: 0 0 15px 0;
 }
@@ -790,7 +791,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #ffb727;
+  background: #0a9626;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
